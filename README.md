@@ -3,7 +3,7 @@ About Me<br><br>I’m a motivated and reliable person who values growth, profess
 
 
 ## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hussein Al-Halfy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alhalfyhussein2@gmail.com) 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alhalfyhussein2@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
